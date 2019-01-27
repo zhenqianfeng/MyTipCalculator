@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyTipCalculator</string>
+    <string name="lbl_dinnernumber">Number of Dinner:</string>
+    <string name="et_dinnernumber"></string>
+    <string name="et_dinnerprice"></string>
+    <string name="lbl_tippercentage">Tip Percentage (%):</string>
+    <string name="et_tippercentage"></string>
+    <string name="tv_result">Result</string>
+    <string name="btn_calculate">Calculate</string>
+</resources>
